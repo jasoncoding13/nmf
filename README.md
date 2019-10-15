@@ -6,15 +6,15 @@ This is a repository to reproduce robust NMF algorithms:
 2. HCNMF[2]
 3. L21 -NMF[3]
 4. RCNMF[4]
-5. RNMF-$L_{1}$[5]
+5. RNMF-L1​[5]
 6. L_1​-NMF[3]
 7. HuberNMF[6]
 8. CIM-NMF[6]
 
 ## Requirement
 
-matplotlib-3.1.1
-numpy-1.27.2
+matplotlib-3.1.1  
+numpy-1.27.2  
 sklearn-0.21.3
 
 ## Usage
