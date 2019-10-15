@@ -2,14 +2,24 @@
 
 ## Background
 This is a repository to reproduce robust NMF algorithms:
+
 1. Standard NMF[1]
+
 2. HCNMF[2]
+
 3. L21 -NMF[3]
+
 4. RCNMF[4]
+
 5. RNMF-L1​[5]
+
 6. L_1​-NMF[3]
+
 7. HuberNMF[6]
+
 8. CIM-NMF[6]
+
+ __Note that the HCNMF in this repository is simplified. In details, it uses two global learning rates instead of element-wise learning rates the paper proposed for backtracking line search. Thanks to [AceKimi](https://github.com/JiaLiangShen) pointing it our and sharing his version. In the future, we will merge our versions if we have spare time.__
 
 ## Requirement
 
