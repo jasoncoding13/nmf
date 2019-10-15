@@ -4,10 +4,10 @@
 This is a repository to reproduce robust NMF algorithms:
 1. Standard NMF[1]
 2. HCNMF[2]
-3. $L_{2,1}$ -NMF[3]
+3. L21 -NMF[3]
 4. RCNMF[4]
 5. RNMF-$L_{1}$[5]
-6. $L_1$-NMF[3]
+6. L_1​-NMF[3]
 7. HuberNMF[6]
 8. CIM-NMF[6]
 
