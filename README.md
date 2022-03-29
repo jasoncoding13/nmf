@@ -19,7 +19,7 @@ This is a repository to reproduce robust NMF algorithms:
 
 8. CIM-NMF[6]
 
- __Note that the HCNMF in this repository is simplified. In details, it uses two global learning rates instead of element-wise learning rates the paper proposed for backtracking line search. Thanks to [AceKimi](https://github.com/JiaLiangShen) pointing it our and sharing his version. In the future, we will merge our versions if we have spare time.__
+ __Note that the HCNMF in this repository is simplified. In details, it uses two global learning rates instead of element-wise learning rates the paper proposed for backtracking line search. Thanks to [AceKimi](https://github.com/JiaLiangShen) pointing it out and sharing his version. In the future, we will merge our versions if we have spare time.__
 
 ## Requirement
 
